@@ -13,3 +13,9 @@ filanombres.push("Elena");
 console.log("Parte 3");
 console.log(filanombres);
 
+console.log("Ejercicio 2");
+var punto = "";
+for (var i = 0; i <= 4; i++) {
+    punto += "*"
+    console.log(punto);
+}
